@@ -22,3 +22,16 @@ nouvelles
 vélocités
 après une
 collision.
+
+V0.2 : fonctionnel,
+tentative de rajouter
+des propulseurs
+pour différencier
+le nez des autres
+sommets du 
+vaisseau. 
+Cependant, les
+propulseurs ne
+restent pas
+derrière le
+vaisseau.
