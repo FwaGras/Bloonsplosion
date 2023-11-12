@@ -34,4 +34,5 @@ Cependant, les
 propulseurs ne
 restent pas
 derrière le
-vaisseau.
+vaisseau. Lors
+d'une rotation.
